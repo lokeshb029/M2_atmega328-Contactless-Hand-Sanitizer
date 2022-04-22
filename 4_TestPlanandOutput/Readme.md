@@ -1,4 +1,4 @@
-#THE TEST PLAN OF THE PROJECT IS:
+# THE TEST PLAN OF THE PROJECT IS:
 
 . To know the importance of the project.
 
